@@ -82,7 +82,7 @@ GitHub	  -    Version control & deployment
 
 1.Clone the repository:
 
-git clone https://github.com/YourUsername/Phonepe_Transaction_Insights.git
+git clone https://github.com/yogapriya-28/Phonepe_Transaction_insights.git
 cd Phonepe_Transaction_Insights
 
 2.Install required packages:
