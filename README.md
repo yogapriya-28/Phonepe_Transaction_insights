@@ -62,13 +62,62 @@ GitHub	  -    Version control & deployment
 📁 Project Structure
 -------------------------------------------------
 
-├── streamlit_app.py          # Streamlit App Source Code
+/Phonepe_Transaction_insights
 
-├── phonepe_data.ipynb        # Data Extraction & Processing Notebook
+│
 
-├── /data                     # Raw JSON Files from PhonePe Pulse
+├── README.md                  # GitHub-friendly documentation in Markdown
 
-└── README.md                 # Project Documentation
+├── stream.lit.py           # Streamlit code
+
+├── phonepe.py        # Notebook
+
+├── /data                      # JSON files
+
+└── PHONEPE_TRANSACTION_INSIGHTS.pdf  # Optional downloadable report
+
+
+🚀 How to Run Locally
+------------------------------
+
+1.Clone the repository:
+
+git clone https://github.com/YourUsername/Phonepe_Transaction_Insights.git
+cd Phonepe_Transaction_Insights
+
+2.Install required packages:
+
+pip install -r requirements.txt
+
+3.Run the Streamlit app:
+
+streamlit run streamlit_app.py
+
+
+🎯 Dashboard Insight
+------------------------------
+
+Transactions Overview: Total transactions, average transactions, and revenue trends
+
+User Analytics: Registration trends, app opens, device usage, and engagement across regions
+
+Insurance Analytics: State-wise and district-level adoption
+
+Interactive Filters: Drill down by year, quarter, or region for detailed analysis
+
+
+
+💡 Notes
+-------------------------------------------
+
+Ensure your MySQL database is running and properly connected.
+
+Datasets are aggregated for fast performance and visual clarity.
+
+The dashboard is mobile-responsive and optimized for web view.
+
+
+
 
 
 
