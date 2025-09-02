@@ -38,7 +38,7 @@ o	Market Expansion via Transactions
 
 o	User Engagement Trends
 
-o	Insurance Engagement by District
+
 
 •	✅ Professional and branded Streamlit UI
 
