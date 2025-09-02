@@ -1,6 +1,6 @@
 # 📊 Phonepe_Transaction_insights
 
-A fully interactive data dashboard that visualizes PhonePe Pulse transaction data across India using Streamlit, Plotly, and MySQL. The dashboard provides actionable insights into transactions, user behavior, and insurance adoption across states, districts, and pincodes.
+A fully interactive data dashboard that visualizes PhonePe Pulse transaction data across India using Streamlit, Python, and MySQL. The dashboard provides actionable insights into transactions, user behavior, and insurance adoption across states, districts, and pincodes.
 
 
 🧠 Project Overview
